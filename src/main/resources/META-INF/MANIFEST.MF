@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.znh.siemens.StartApplication
+Class-Path: slf4j-api-1.7.25.jar logback-classic-1.2.3.jar commons-io-2.
+ 6.jar fastjson2-extension-2.0.32.jar commons-lang-2.6.jar iot-communica
+ tion-1.5.0.jar logback-core-1.2.3.jar lombok-1.18.18.jar fastjson2-2.0.
+ 32.jar fastjson-2.0.32.jar
+
